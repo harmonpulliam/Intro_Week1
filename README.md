@@ -30,12 +30,10 @@
   - Linux
 
 - Some fundamentals
-  - Memory (RAM)
-  - File storage (hard drives)
-  - CPU
-  - GPU
-
-- I ADD SOMETHING HERE
+  - Memory (RAM) *Office Desk
+  - File storage (hard drives) *Office file box
+  - CPU *speed of processing
+  - GPU *renders graphics
 
 - Unix Filesystem
 	- [Filesystem overview](https://github.com/IntroToCompBioLSU-Spr20/Intro_Week1/blob/master/Filesystems.md)
